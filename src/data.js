@@ -1,0 +1,88 @@
+const SHOPPING_DATA = [
+  {
+    id: 1,
+    title: "Home Product",
+    price: "400",
+    rating: 4,
+    cart: false,
+  },
+  {
+    id: 2,
+    title: "Kitchen Product",
+    price: "300",
+    rating: 3,
+    cart: false,
+  },
+  {
+    id: 3,
+    title: "Bathroom Item",
+    price: "300",
+    rating: 2,
+    cart: false,
+  },
+  {
+    id: 4,
+    title: "Computer Product",
+    price: "500",
+    rating: 5,
+    cart: false,
+  },
+  {
+    id: 5,
+    title: "Hall Product",
+    price: "400",
+    rating: 3,
+    cart: false,
+  },
+  {
+    id: 6,
+    title: "Sport Product",
+    price: "400",
+    rating: 2,
+    cart: false,
+  },
+  {
+    id: 7,
+    title: " Dress Product",
+    price: "300",
+    rating: 4,
+    cart: false,
+  },
+  {
+    id: 8,
+    title: "Popular Product",
+    price: "490",
+    rating: 3.5,
+    cart: false,
+  },
+  {
+    id: 9,
+    title: "Fancy Product",
+    price: "40",
+    rating: 2.5,
+    cart: false,
+  },
+  {
+    id: 10,
+    title: "Gym Product",
+    price: "480",
+    rating: 1,
+    cart: false,
+  },
+  {
+    id: 11,
+    title: "Sale Item",
+    price: "30",
+    rating: 3,
+    cart: false,
+  },
+  {
+    id: 12,
+    title: "Popular Product",
+    price: "490",
+    rating: 5,
+    cart: false,
+  },
+];
+
+export default SHOPPING_DATA;
